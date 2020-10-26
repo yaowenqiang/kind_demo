@@ -17,3 +17,5 @@
 
 > kubectl cluster-info --context kind-kind
 
+> kind create cluster --config kind-example-config.yaml
+
